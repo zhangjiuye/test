@@ -1,2 +1,2 @@
 test
-![gir1](./g1.png)
+![gir1](/assets/images/g1.png)
